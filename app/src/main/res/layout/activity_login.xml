@@ -48,5 +48,12 @@
             android:background="#3600BCD4"
             android:text="Iniciar sesión" />
 
+        <Button
+            android:id="@+id/btnRegister"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:text="Crear cuenta" />
+
     </LinearLayout>
 </LinearLayout>
